@@ -1,10 +1,9 @@
 # Object_Recognition
 
-Python: 3.7.1 <br />
-NLTK: 3.4 <br />
-Scikit-learn: 0.20.1<br />
-Pandas: 0.23.4 <br />
-Numpy: 1.15.4 <br />
+Python: 3.6.8 <br />
+Matplotlib 1.2.0 <br />
+TensorFlow required <br />
+Cifar10 dataset imported from keras <br />
 
 Platform used: Jupyter Notebook <br />
 Language used : Python<br />
